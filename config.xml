@@ -3,14 +3,14 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "de.itmeindl.wawaappFeldkirchen"
+        id        = "de.itmeindl.wawaappMarienklause"
         version   = "1.1.0"
         versionCode="6">
 
-    <name>WachApp Feldkirchen</name>
+    <name>WachApp Marienklause</name>
 
     <description>
-        Eine App für die Wachplan App der Wasserwacht Feldkirchen von Tobias Meindl.
+        Eine App für die Wachplan App der Wasserwacht Marienklause von Tobias Meindl.
         Nur für interne Mitglieder. Passwort benötigt. Anfragen bei info@wachplan.info.
     </description>
 
